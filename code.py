@@ -123,7 +123,3 @@ root.configure(background="#949EFF")
 root.title("Random Password Generator") 
 root.resizable(False, False) #disables resizing
 root.mainloop()
-
-# to do 
-# make background light color
-# show message for no password generated
